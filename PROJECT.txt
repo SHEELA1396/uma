@@ -1,0 +1,31 @@
+MOTHER TERESA UNIVERSITY
+
+S.NO    Page Link                                           Test Date               Test Time                Pass/Fail                         Description 
+ 
+   1   'Object Repository/Mtu home/Page_Mother             06-12-2024               12:37:39 pm              FAILED                     Unable to click on object
+        Teresa University/div_Notifications    
+        Ph.D. Entrance Examina_7a2a1d'                                                                                
+  
+   2   'Object Repository/Mtu admission/Page_Mother        06-12-2024               12:45:15 pm              FAILED                     Unable to click on object
+        Teresa University/h3_ADMISSIONS OPEN FOR 2024'
+   
+   3   'Object Repository/Mtu Academic/Page_Mother         06-12-2024               12:52:34 pm              FAILED                     Unable to click on object
+       Teresa University/span_Academics'
+
+
+
+ANNA UNIVERSITY
+
+S.NO    Page Link                                           Test Date               Test Time                Pass/Fail                         Description 
+
+   
+   1   'Object Repository/ Anna home/Page_ Anna           06-12-2024                12:58:28 pm               FAILED                    Unable to click on object                   
+         University'                                                                                
+  
+   2   'Object Repository/Anna admission/Page_Anna        06-12-2024                01:03:42 pm               FAILED                     Unable to click on object
+        University/Chennai'
+   
+   3   Object Repository/Anna Academic/Page_              06-12-2024               01:09:30 pm                FAILED                     Unable to click on object
+       Anna University, Chennai/img_1_2'        
+        
+
